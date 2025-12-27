@@ -6,7 +6,7 @@ This is a simple console-based game written in C. The computer picks a random nu
 I created this project to practice the following C programming concepts:
 * `do-while` loops
 * `if-else` conditional statements
-* **Random number generation & Seeding** (`srand`, `time`)
+* **Random number generation & seeding** (`srand`, `time`)
 
 ## Installation & Compilation
 
