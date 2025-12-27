@@ -24,3 +24,7 @@ Open your terminal in the project folder and run the following command.
 gcc game.c -o game
 # OR if you prefer Clang:
 # clang game.c -o game
+```
+### 3. Run the Game
+```bash
+./game
